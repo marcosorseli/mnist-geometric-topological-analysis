@@ -5,6 +5,7 @@ This project investigates whether image classification can be performed effectiv
 The goal is to compare standard classification techniques against Manifold Learning and Topological Data Analysis (TDA) with respect to accuracy. We also analyze how different feature sets respond to data corruption versus elastic deformation.
 
 ![Accuracy vs Deformation Sigma](images/elastic_robustness.png)
+
 *Figure: Model accuracy as a function of deformation smoothness (Sigma). Note the stability of the TDA model (Green) compared to the Baseline (Blue).*
 ## Project Overview
 
